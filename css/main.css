@@ -1,0 +1,102 @@
+
+nav{
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+li{
+	display: inline-block;
+	font-size: 20px;
+	margin-right: 35px;
+}
+li:hover{
+	color: gray;
+}	
+.studio {
+	background-color: white;
+	background: url("../img/dance_1.jpg") no-repeat;
+    width: 100%;
+    min-height: 500px;
+    margin-top: 50px;
+  }
+  .studio-text{
+	font-size: 90px;
+	margin-top: 80px;
+  }  
+  .boton1{
+  	margin-top: 15px;
+  	width: 120px;
+  	height: 40px;
+  	background-color: #020F1D;
+  	font-size: 20px;
+  	padding: 5px 20px;
+  }
+  
+  .juliart{
+  	background-image: url("../img/textura_2.jpg");
+  	width: 100%;
+  	height: 360px;
+	font-size: 30px;
+	margin: auto;
+	padding: 30px 40px;
+  }
+  .decoracion1{
+	width:120px;
+	height: 100px;
+}
+.boton2{
+	background-color: #192951;
+	color: white;
+	width: 280px;
+	height: 60px;
+	font-size: 20px;
+	border-radius: 6px;
+	margin: auto;
+	padding-top: 15px;
+  }
+.puntapie{
+	min-height: 300px; 
+}
+.seis{
+	width: 50%;
+	height: 300px; 
+	float: left;
+	border: 2px solid #192951;
+	position: relative;
+}
+.boton3{
+	background-color: #192951;
+	color: white;
+	width: 400px;
+	height: 60px;
+	font-size: 20px;
+	border-radius: 6px;
+	margin: auto;
+	padding-top: 15px;
+	position: absolute;
+	margin-top: 240px;
+	margin-left: 422px;
+  }
+.danza{
+  	background-image: url("../img/textura_2.jpg");
+  	width: 100%;
+  	min-height: 200px;
+	font-size: 40px;
+	margin: auto;
+	padding: 100px 220px;
+  }
+ .mapa{
+ 	background-color: #192951;
+ 	width: 100%;
+ 	min-height: 300px;
+ 	padding: 80px 0px;
+ } 
+ .titulo{
+
+ }
+ .asa{
+ 	width: 80%;
+ 	margin-top: 80%;
+ }
+ hr{
+ 	margin-bottom:15px;

@@ -1,0 +1,46 @@
+.oferta{
+	width: 100%;
+	min-height: 500px;
+	background-color: #f4f4f4;
+	margin-top: 40px;
+	padding: 25px 0px;
+}
+
+.baile{
+	width: 80%;
+	min-height: 10px; 
+	margin: auto;
+	background-color: #020F1D;
+	 opacity: 0.6; 
+	 color: white;
+	 margin-top: 25px;
+	 padding: 50px 20px;
+	} 
+.ballet{
+	background: url("../img/dance_12.jpg");	
+}
+.dance{
+	background: url("../img/breakdance.jpg");
+}	
+.jazz{
+	background: url("../img/lirical-jazz.jpg");
+}
+.arabic{
+	background: url("../img/arabe.jpg");
+}
+.kids{
+	background: url("../img/little.jpg");	
+}
+.yoga{
+	background: url("../img/yoga.jpg");
+}
+.fondo{
+	background-size: cover;
+	width: 100%;
+	min-height: 300px;
+	padding: 80px 0;
+	margin: 15px 0;
+}
+p{
+	margin: 10px 0;
+}
